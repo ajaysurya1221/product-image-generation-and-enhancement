@@ -1,0 +1,7 @@
+diffusers --upgrade
+invisible_watermark transformers accelerate safetensors
+matplotlib
+ultralytics[explorer] openai
+ftfy regex tqdm
+git+https://github.com/openai/CLIP.git
+opencv-python-headless pillow
